@@ -1,0 +1,4 @@
+PASS is platform as software service 
+it provide the hardware and software machine 
+it provide vertuual machine to user
+ex. EC2 AWS
